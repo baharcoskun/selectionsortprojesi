@@ -13,7 +13,7 @@ aşama 3: [2,6,16,18,22,27]
 
 Big-O : O(n^2)
 
-Time Complexity:Average case kapsamına girer.
+18 sayısı --> Time Complexity: Average case kapsamına girer.
 
 # SORU 2: [7,3,5,8,2,9,4,15,6] 
 dizisini Selection Sort'a göre ilk 4 adımını yaz.
